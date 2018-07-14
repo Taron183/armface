@@ -1,0 +1,319 @@
+.brands{
+	margin-top:20px;
+	height:70px;
+}
+
+.nav_u{
+	margin-top:20px;
+}
+
+.nav_bg{
+	    background-color: #26a69a;
+    border-color: #26a69a;
+	
+}
+
+.nav_bar{
+	overflow:hidden;
+	height:91px;
+}
+
+.sign{
+	margin-top:100px;
+	padding-bottom:50px;
+	
+}
+
+.font_icon{
+	position:absolute;
+	top: 30%;
+    right: 20px;
+	color:red;
+}
+
+.font_2{
+	position:absolute;
+	top: 28%;
+    right: 22px;
+	color:red;
+}
+.font_3{
+	position:absolute;
+	top: 28%;
+    right: 22px;
+	color:red;
+}
+.font_4{
+	position:absolute;
+	top: 39%;
+    right: 22px;
+	color:red;
+}
+.font_5{
+	position:absolute;
+	top: 50%;
+    right: 22px;
+	color:red;
+}
+
+.font_6{
+	position:absolute;
+	 top: 28%;
+    right: 0px;
+	color:red;
+}
+.nav_f{
+	position:relative;
+	height:51px;
+}
+
+#content{
+	height:auto;
+}
+#st-content_he {
+    overflow-y: scroll;
+    height: auto;
+}
+
+
+
+.upload input[type="file"] { display: none; }
+
+.upload-path {
+  display: inline-block;
+  padding: 10px;
+  min-width: 200px;
+  font-style: italic;
+}
+
+.upload {
+  display: inline-block;
+  padding: 10px;
+  background: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+  &:hover { background: gray; }
+  &:active { background: gray; }
+  &:invalid + span { color: red; }
+  &:valid + span { color: white; }
+}
+
+
+.marg{
+	padding:20px;
+}
+
+
+.searche{
+	float:left;
+	margin-right:10px;
+}
+
+.search_form{
+	overflow:hidden;
+	margin-top: 8px;
+	margin-left:50px;
+}
+
+#com_t{
+	padding-top:18px;
+}
+
+#com_p{
+	padding-top:14px;
+}
+
+
+.friend_count{
+	position:absolute;
+	top: 8px;
+    right: 4px;
+	color:red;
+	display:block;
+	height:10px;
+	cursor:pointer;
+}
+
+
+.fr_count_phone{
+	top: -9px;
+    right: 125px;
+	font-size:16px;
+}
+
+.chat_count{
+	position:absolute;
+	top: 8px;
+    right: 4px;
+	color:red;
+	display:block;
+	height:10px;
+	cursor:pointer;
+}
+
+
+.chat_num{
+	position:absolute;
+	top: 8px;
+    right: 141px;
+	color:red;
+	display:block;
+	height:10px;
+	cursor:pointer;
+}
+
+.chat_count_res{
+	top: -9px;
+    right: 67px;
+	font-size:16px;
+}
+
+.sidebar-chat.chat-skin-dark .chat-contacts li {
+	position:relative;
+}
+
+
+
+.friend{
+	text-shadow:none;
+}
+
+.add_rem{
+	padding:0px;
+	font-size:12px;
+}
+
+
+.footers{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	
+}
+
+
+
+#panel_footer{
+	height:30px;
+	background: rgb(38, 166, 154);
+	line-height:30px;
+	
+}
+
+
+#panel_footer span{
+	color:#fff;
+	padding:5px;
+	
+}
+
+#panel_footer strong{
+	color:#fff;
+	padding:5px;
+	font-size:14px;
+	
+}
+
+#images_pading{
+	padding-right:0px;
+}
+
+#chat_boxs{
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    padding: 44px 5px 155px 5px;
+    font-size: 12px;
+    background: #f9f9f9;
+}
+
+.box_img{
+	display:block;
+	
+}
+
+
+.about_block{
+	padding-bottom:60px;
+	
+}
+
+.friend_all{
+	padding-bottom:60px;
+}
+
+
+.photo{
+	padding-bottom:60px;
+}
+
+.navbar-default .navbar-brand {
+	border-right-color: #26a69a;
+	
+}
+
+.body_bg{
+	
+    background: url(../images/lock-1.jpg);
+}    
+
+
+.row [class*="col-"] {
+    padding:5px 15px 0px 15px;
+}
+
+.message {
+    padding: 3px 3px 3px 4px;
+    border-radius: 3px;
+   
+    border: 1px solid #e2e9e6;
+    background: #ffffff;
+}
+
+
+.pan_bod{
+	height:200px;
+	overflow:auto;
+}
+
+
+.time_data{
+	display: block;
+	font-size: 10px;
+	background: #f5f5f5;
+    color: blue;
+	border:1px solid #f5f5f5;
+}
+
+
+#chs{
+     right: 320px;
+     left: auto; 
+}
+
+@media (max-width: 767px){
+	.chat-window-container #chs {
+		right: 0px;
+		left: 0; 
+	}	
+	
+	.pan_bod{
+		height:auto;
+	}
+
+}
+
+
+#search_eror{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+   
